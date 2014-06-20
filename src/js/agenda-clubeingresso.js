@@ -140,7 +140,7 @@ var agendaClubeIngresso = (function() {
 			widgetHtml = '<div class="widgetClubeIngresso">\
 				<div class="wci-header">'+tituloWidget+'</div>\
 				<div class="wci-container">\
-					<img class="wci-loading" src="loading.gif" width="30" height="28" alt="Carregando apresentações..." title="Carregando apresentações...">\
+					<img class="wci-loading" src="https://s3.amazonaws.com/clubeingresso/widget/loading.gif" width="30" height="28" alt="Carregando apresentações..." title="Carregando apresentações...">\
 				</div>\
 				<p class="wci-footer">Plugin social <a href="http://clubeingresso.com.br" target="_blank">ClubeIngresso</a></p>\
 			</div>';
