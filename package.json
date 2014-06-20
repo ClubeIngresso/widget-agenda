@@ -1,0 +1,28 @@
+{
+	"name": "audio-player",
+	"version": "0.0.1",
+	"description": "A really cool HTML5 audio player made to fulfill Zone of Front-Enders needs that might fit into yours.",
+	"homepage": "https://github.com/zofepod/audio-player",
+	"contributors": "https://github.com/zofepod/audio-player/graphs/contributors",
+	"license": [{
+		"type": "MIT",
+		"url": "http://daniel.mit-license.org/"
+	}],
+	"main": "Gruntfile.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:zofepod/audio-player.git"
+	},
+	"bugs": {"url": "https://github.com/zofepod/audio-player/issues"},
+	"devDependencies": {
+		"grunt": "~0.4.x",
+		"grunt-contrib-compass": "~0.5.x",
+		"grunt-contrib-connect": "^0.8.x",
+		"time-grunt": "^0.3.x",
+		"load-grunt-tasks": "^0.5.x",
+		"grunt-contrib-jshint": "^0.6.x",
+		"grunt-contrib-uglify": "^0.2.x",
+		"grunt-contrib-watch": "^0.5.x",
+		"grunt-jscs-checker": "^0.2.x"
+	}
+}
